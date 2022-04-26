@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+  Hello There!   <img src="https://i.redd.it/lzzynbz2gap51.gif" width="50px"/>
+</h1>
 
-<!--
-**BrotherofOracleMan/BrotherOfOracleMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://miro.medium.com/max/1280/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" width="600" height="400"/>
+</div>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software engineer based in Los Angeles, California 🇺🇲
+* ⚕️ I'm currently working as a Software Engineer at Varian Medical Systems working on automation for medical devices.
+* ☁️ Learning about Cloud computing technologies, specifically 
+* 📕 On my free time, I like to read books and play video games.
+* 📇 How to reach me:
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+---
+
+### 📊 My stats
+
+---
+
+### ⌨️ Finished Projects/ Current Projects here
