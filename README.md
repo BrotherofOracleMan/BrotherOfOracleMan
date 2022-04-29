@@ -42,8 +42,12 @@ I am a software engineer based in Los Angeles, California 🇺🇲
 ---
 
 ### ⌨️ Finished Projects/ Current Projects
-<a href="https://github.com/braydoncoyer/officeapi">
+<a href="https://github.com/BrotherofOracleMan/AWSLambdaImageGetandPUT">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BrotherOfOracleMan&repo=AWSLambdaImageGetandPUT&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/BrotherofOracleMan/Python_Leetcode">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BrotherOfOracleMan&repo=Python_Leetcode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
