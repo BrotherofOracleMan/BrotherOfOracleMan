@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Jiunn <img src="https://i.redd.it/lzzynbz2gap51.gif" width="50px"/>
+  Hi, I'm Jiunn
 </h1>
 
 <div align="center">
